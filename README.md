@@ -13,9 +13,9 @@ In this project, the interactions of dance, technology, and art are explored. An
 
 ## Hardware Setup & Assumptions:
 
-This programming project expects rhythmic beats of dance to be sourced as input, by listening to the system mic interface. The author connected a **CONTACT microphone** using special cables (with 3.5mm and 6.5mm TRRS audio pins) to the computer which treated the external CONTACT mic as the system mic.
+This programming project expects rhythmic beats of dance to be sourced as input, by listening to the system mic interface. The author connected a Piezo contact microphone to a Scarlett 2i2 interface using 1/4 female TRS jacks. This feeds into the computer which treated the external contact mic as the system mic.
 
-The program works even if there is no contact mic, but the input becomes generic ambient sound vs. the dance footwork-only sounds picked up by a contact mic. While the built-in noise reduction processing can help eliminate the noise, using a CONTACT microphone yields the best results to visualize dance footwork.
+The program works even if there is no contact mic, but the input becomes generic ambient sound vs. the dance footwork-only sounds picked up by a contact mic. While the built-in noise reduction processing can help eliminate the noise, using a contact microphone yields the best results to visualize dance footwork.
 
 ---
 ## Visualization Structure
